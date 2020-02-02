@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    int n,q,i,j,k; // Given variables in tne problem statement
+    int n,q,i,j,k; // Given variables in the problem statement
     int m,p,val; // aditional variables to solve the problem
     cin>>n>>q;
     vector<int> v[n];
